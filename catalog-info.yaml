@@ -3,8 +3,7 @@ kind: Component
 metadata:
   name: java-libray
   description: An example java backstage application.
-  # Example for optional annotations
-   annotations:
+  annotations:
      backstage.io/techdocs-ref: dir:.
 spec:
   type: website
